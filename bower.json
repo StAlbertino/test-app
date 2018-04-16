@@ -1,0 +1,19 @@
+{
+  "name": "test-app",
+  "authors": [
+    "Jānis Albertiņš"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "vue": "^2.5.16",
+    "axios": "^0.18.0"
+  }
+}
